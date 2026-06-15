@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Namrata52/shopping-cart-app/static/css/main.e3ad846f.css",
-    "main.js": "/Namrata52/shopping-cart-app/static/js/main.b582b0ae.js",
-    "index.html": "/Namrata52/shopping-cart-app/index.html",
-    "main.e3ad846f.css.map": "/Namrata52/shopping-cart-app/static/css/main.e3ad846f.css.map",
-    "main.b582b0ae.js.map": "/Namrata52/shopping-cart-app/static/js/main.b582b0ae.js.map"
+    "main.css": "/shopping-cart-app/static/css/main.e3ad846f.css",
+    "main.js": "/shopping-cart-app/static/js/main.b582b0ae.js",
+    "index.html": "/shopping-cart-app/index.html",
+    "main.e3ad846f.css.map": "/shopping-cart-app/static/css/main.e3ad846f.css.map",
+    "main.b582b0ae.js.map": "/shopping-cart-app/static/js/main.b582b0ae.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ad846f.css",
